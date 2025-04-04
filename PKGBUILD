@@ -1,7 +1,7 @@
 pkgname=ttf-nec-pc9800
 pkgver=1.0.0
 pkgrel=1
-pkgdesc='NEC PC-9800 series built-in bitmap fonts'
+pkgdesc='NEC PC-9800 series built-in bitmap fonts in TTF format'
 url='https://retro-type.com/PC98/font/'
 arch=('any')
 license=('unknown')
