@@ -1,4 +1,3 @@
-# Maintainer: baraclese at gmail dot com
 pkgname=ttf-nec-pc9800
 pkgver=1.0.0
 pkgrel=1
